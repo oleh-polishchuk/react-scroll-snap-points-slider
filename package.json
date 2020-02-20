@@ -1,0 +1,28 @@
+{
+  "name": "react-scroll-snap-points-slider",
+  "version": "1.0.0",
+  "description": "React slider (use CSS Scroll Snap Points)",
+  "main": "index.js",
+  "keywords": [],
+  "author": "oleh.polishchuk.ck@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "classnames": "2.2.6",
+    "lodash": "4.17.15",
+    "prop-types": "15.7.2",
+    "@babel/core": "7.5.5",
+    "@babel/preset-env": "7.5.5",
+    "@babel/preset-react": "7.0.0",
+    "babel-loader": "8.0.6",
+    "css-loader": "3.2.0",
+    "node-sass": "4.12.0",
+    "sass-loader": "7.3.1",
+    "style-loader": "1.0.0",
+    "terser-webpack-plugin": "1.4.1",
+    "webpack": "4.39.2",
+    "webpack-cli": "3.3.7"
+  }
+}
