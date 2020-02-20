@@ -4,7 +4,12 @@
   "description": "React slider (use CSS Scroll Snap Points)",
   "main": "index.js",
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleh-polishchuk/react-scroll-snap-points-slider.git"
+  },
   "author": "oleh.polishchuk.ck@gmail.com",
+  "homepage": "https://github.com/oleh-polishchuk/react-scroll-snap-points-slider#readme",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production"
