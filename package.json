@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "classnames": "2.2.6",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "prop-types": "15.7.2",
     "@babel/core": "7.5.5",
     "@babel/preset-env": "7.5.5",
